@@ -1,2 +1,7 @@
-# Devsu-Exercise
-Repository that has the development of the practical exercise with Devsu
+# 📚 Repositorio Devsu-Exercise 📚
+ 
+## 📘 Descripción general
+ 
+* Repositorio que contiene el desarrollo del ejercicio práctico con Devsu
+
+ 
